@@ -1,0 +1,48 @@
+*{
+ box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    margin: 20%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -200px;
+    padding-bottom: 170px;
+    font-size: 55px;
+}
+.image {
+    margin-top: -190px;
+    display: inline-block;
+    width: 100%;
+}
+
+ .description {
+    font-size: 17px;
+    color: white; 
+}
+
+.legend-history {
+    background-color: rgba(20, 18, 20, 0.25);
+    box-shadow: 20px 20px 20px #131217;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+#title{
+    
+    color: white;
+    text-align: center;
+    padding: 20;
+    padding-top: 230px;
+    font-size: 55px;
+    text-shadow: 5px 5px 12px white;
+}
+.legend-information {
+    margin-top: -180px;
+
+}
